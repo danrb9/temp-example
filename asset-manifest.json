@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/temp-example/static/js/main.fa380eb5.js",
+    "index.html": "/temp-example/index.html",
+    "main.fa380eb5.js.map": "/temp-example/static/js/main.fa380eb5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa380eb5.js"
+  ]
+}
